@@ -24,9 +24,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		3609CA592E204F3300A6DD84 /* SuperCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuperCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		3609CA672E204F3400A6DD84 /* SuperCalculatorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SuperCalculatorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		3609CA712E204F3400A6DD84 /* SuperCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SuperCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3609CA592E204F3300A6DD84 /* SuperCalculator123.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SuperCalculator123.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		3609CA672E204F3400A6DD84 /* SuperCalculator123Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SuperCalculator123Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		3609CA712E204F3400A6DD84 /* SuperCalculator123UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SuperCalculator123UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -85,9 +85,9 @@
 		3609CA5A2E204F3300A6DD84 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				3609CA592E204F3300A6DD84 /* SuperCalculator.app */,
-				3609CA672E204F3400A6DD84 /* SuperCalculatorTests.xctest */,
-				3609CA712E204F3400A6DD84 /* SuperCalculatorUITests.xctest */,
+				3609CA592E204F3300A6DD84 /* SuperCalculator123.app */,
+				3609CA672E204F3400A6DD84 /* SuperCalculator123Tests.xctest */,
+				3609CA712E204F3400A6DD84 /* SuperCalculator123UITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,9 +95,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		3609CA582E204F3300A6DD84 /* SuperCalculator */ = {
+		3609CA582E204F3300A6DD84 /* SuperCalculator123 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3609CA7B2E204F3400A6DD84 /* Build configuration list for PBXNativeTarget "SuperCalculator" */;
+			buildConfigurationList = 3609CA7B2E204F3400A6DD84 /* Build configuration list for PBXNativeTarget "SuperCalculator123" */;
 			buildPhases = (
 				3609CA552E204F3300A6DD84 /* Sources */,
 				3609CA562E204F3300A6DD84 /* Frameworks */,
@@ -110,16 +110,16 @@
 			fileSystemSynchronizedGroups = (
 				3609CA5B2E204F3300A6DD84 /* SuperCalculator */,
 			);
-			name = SuperCalculator;
+			name = SuperCalculator123;
 			packageProductDependencies = (
 			);
 			productName = SuperCalculator;
-			productReference = 3609CA592E204F3300A6DD84 /* SuperCalculator.app */;
+			productReference = 3609CA592E204F3300A6DD84 /* SuperCalculator123.app */;
 			productType = "com.apple.product-type.application";
 		};
-		3609CA662E204F3400A6DD84 /* SuperCalculatorTests */ = {
+		3609CA662E204F3400A6DD84 /* SuperCalculator123Tests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3609CA7E2E204F3400A6DD84 /* Build configuration list for PBXNativeTarget "SuperCalculatorTests" */;
+			buildConfigurationList = 3609CA7E2E204F3400A6DD84 /* Build configuration list for PBXNativeTarget "SuperCalculator123Tests" */;
 			buildPhases = (
 				3609CA632E204F3400A6DD84 /* Sources */,
 				3609CA642E204F3400A6DD84 /* Frameworks */,
@@ -133,16 +133,16 @@
 			fileSystemSynchronizedGroups = (
 				3609CA6A2E204F3400A6DD84 /* SuperCalculatorTests */,
 			);
-			name = SuperCalculatorTests;
+			name = SuperCalculator123Tests;
 			packageProductDependencies = (
 			);
 			productName = SuperCalculatorTests;
-			productReference = 3609CA672E204F3400A6DD84 /* SuperCalculatorTests.xctest */;
+			productReference = 3609CA672E204F3400A6DD84 /* SuperCalculator123Tests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		3609CA702E204F3400A6DD84 /* SuperCalculatorUITests */ = {
+		3609CA702E204F3400A6DD84 /* SuperCalculator123UITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 3609CA812E204F3400A6DD84 /* Build configuration list for PBXNativeTarget "SuperCalculatorUITests" */;
+			buildConfigurationList = 3609CA812E204F3400A6DD84 /* Build configuration list for PBXNativeTarget "SuperCalculator123UITests" */;
 			buildPhases = (
 				3609CA6D2E204F3400A6DD84 /* Sources */,
 				3609CA6E2E204F3400A6DD84 /* Frameworks */,
@@ -156,11 +156,11 @@
 			fileSystemSynchronizedGroups = (
 				3609CA742E204F3400A6DD84 /* SuperCalculatorUITests */,
 			);
-			name = SuperCalculatorUITests;
+			name = SuperCalculator123UITests;
 			packageProductDependencies = (
 			);
 			productName = SuperCalculatorUITests;
-			productReference = 3609CA712E204F3400A6DD84 /* SuperCalculatorUITests.xctest */;
+			productReference = 3609CA712E204F3400A6DD84 /* SuperCalculator123UITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
@@ -186,7 +186,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 3609CA542E204F3200A6DD84 /* Build configuration list for PBXProject "SuperCalculator" */;
+			buildConfigurationList = 3609CA542E204F3200A6DD84 /* Build configuration list for PBXProject "SuperCalculator123" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -200,9 +200,9 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				3609CA582E204F3300A6DD84 /* SuperCalculator */,
-				3609CA662E204F3400A6DD84 /* SuperCalculatorTests */,
-				3609CA702E204F3400A6DD84 /* SuperCalculatorUITests */,
+				3609CA582E204F3300A6DD84 /* SuperCalculator123 */,
+				3609CA662E204F3400A6DD84 /* SuperCalculator123Tests */,
+				3609CA702E204F3400A6DD84 /* SuperCalculator123UITests */,
 			);
 		};
 /* End PBXProject section */
@@ -258,12 +258,12 @@
 /* Begin PBXTargetDependency section */
 		3609CA692E204F3400A6DD84 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3609CA582E204F3300A6DD84 /* SuperCalculator */;
+			target = 3609CA582E204F3300A6DD84 /* SuperCalculator123 */;
 			targetProxy = 3609CA682E204F3400A6DD84 /* PBXContainerItemProxy */;
 		};
 		3609CA732E204F3400A6DD84 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 3609CA582E204F3300A6DD84 /* SuperCalculator */;
+			target = 3609CA582E204F3300A6DD84 /* SuperCalculator123 */;
 			targetProxy = 3609CA722E204F3400A6DD84 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -467,7 +467,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SuperCalculator.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SuperCalculator";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SuperCalculator123.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SuperCalculator123";
 			};
 			name = Debug;
 		};
@@ -485,7 +485,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SuperCalculator.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SuperCalculator";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SuperCalculator123.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/SuperCalculator123";
 			};
 			name = Release;
 		};
@@ -524,7 +524,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		3609CA542E204F3200A6DD84 /* Build configuration list for PBXProject "SuperCalculator" */ = {
+		3609CA542E204F3200A6DD84 /* Build configuration list for PBXProject "SuperCalculator123" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3609CA792E204F3400A6DD84 /* Debug */,
@@ -533,7 +533,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3609CA7B2E204F3400A6DD84 /* Build configuration list for PBXNativeTarget "SuperCalculator" */ = {
+		3609CA7B2E204F3400A6DD84 /* Build configuration list for PBXNativeTarget "SuperCalculator123" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3609CA7C2E204F3400A6DD84 /* Debug */,
@@ -542,7 +542,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3609CA7E2E204F3400A6DD84 /* Build configuration list for PBXNativeTarget "SuperCalculatorTests" */ = {
+		3609CA7E2E204F3400A6DD84 /* Build configuration list for PBXNativeTarget "SuperCalculator123Tests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3609CA7F2E204F3400A6DD84 /* Debug */,
@@ -551,7 +551,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		3609CA812E204F3400A6DD84 /* Build configuration list for PBXNativeTarget "SuperCalculatorUITests" */ = {
+		3609CA812E204F3400A6DD84 /* Build configuration list for PBXNativeTarget "SuperCalculator123UITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				3609CA822E204F3400A6DD84 /* Debug */,
