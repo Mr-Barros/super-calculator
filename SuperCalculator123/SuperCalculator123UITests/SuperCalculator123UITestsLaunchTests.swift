@@ -1,13 +1,13 @@
 //
-//  SuperCalculatorUITestsLaunchTests.swift
-//  SuperCalculatorUITests
+//  SuperCalculator123UITestsLaunchTests.swift
+//  SuperCalculator123UITests
 //
-//  Created by Davi Martignoni Barros on 10/07/25.
+//  Created by Davi Martignoni Barros on 11/07/25.
 //
 
 import XCTest
 
-final class SuperCalculatorUITestsLaunchTests: XCTestCase {
+final class SuperCalculator123UITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

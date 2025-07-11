@@ -1,8 +1,8 @@
 //
 //  CalculatorLogic.swift
-//  SuperCalculator
+//  SuperCalculator123
 //
-//  Created by Davi Martignoni Barros on 10/07/25.
+//  Created by Davi Martignoni Barros on 11/07/25.
 //
 
 import Foundation
